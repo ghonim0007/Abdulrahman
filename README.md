@@ -6,7 +6,7 @@
 ---
 
 ## Objective:
-As a recent graduate in Geographic Information Systems (GIS) from Damietta University, I am eager to apply my technical and analytical skills in a professional environment. I aim to contribute to organizational goals and further develop my expertise in GIS.
+As a graduate in Geographic Information Systems (GIS) from Damietta University, I am eager to apply my technical and analytical skills in a professional environment. I aim to contribute to organizational goals and further develop my expertise in GIS.
 
 ---
 
