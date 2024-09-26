@@ -13,35 +13,15 @@
 </p>
 
 ### GIS Development and AI Tools:
-<p align="left">
-  <a href="https://www.esri.com/en-us/arcgis/products/index" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/E/esri-arcgis-logo-43B9D55D22-seeklogo.com.png" alt="ArcGIS" width="40" height="40"/>
-  </a>
-  <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
+- [ArcGIS](https://www.esri.com/en-us/arcgis/products/index)
+- [QGIS](https://www.qgis.org/en/site/)
+- [Python](https://www.python.org)
+- [TensorFlow](https://www.tensorflow.org/)
+- [PyTorch](https://pytorch.org/)
+- [Scikit-Learn](https://scikit-learn.org/stable/)
+- [R](https://www.r-project.org/)
+- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server)
+- [PostgreSQL](https://www.postgresql.org)
 
 ### About Me
 I am passionate about developing innovative solutions using information technology and geographic systems. I have experience in building computers and developing AI-driven applications.
