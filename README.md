@@ -15,10 +15,10 @@
 ### GIS Development and AI Tools:
 <p align="left">
   <a href="https://www.esri.com/en-us/arcgis/products/index" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Esri_logo.svg" alt="ArcGIS" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/E/esri-arcgis-logo-43B9D55D22-seeklogo.com.png" alt="ArcGIS" width="40" height="40"/>
   </a>
   <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer">
-    <img src="https://qgis.org/downloads/qgis-logo.svg" alt="QGIS" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
