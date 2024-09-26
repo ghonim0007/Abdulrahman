@@ -1,8 +1,8 @@
-# عبد الرحمن أحمد
+# Abdulrahman Ahmed
 
-## خبير نظم المعلومات الجغرافية، عاشق بناء أجهزة الحاسوب، وحلول مدفوعة بالذكاء الاصطناعي. #محطة_التكنولوجيا
+## GIS expert, PC builds enthusiast, AI-driven solutions. #Techstation
 
-### الاتصال بي:
+### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/abdulrahman-ahmed-54b65b265" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-ahmed-54b65b265" height="30" width="40" />
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-### اللغات والأدوات:
+### Languages and Tools:
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -52,17 +52,8 @@
   </a>
 </p>
 
-### عني
-أنا شغوف بتطوير حلول مبتكرة باستخدام تكنولوجيا المعلومات والنظم الجغرافية. لدي خبرة في بناء أجهزة الكمبيوتر وتطوير تطبيقات مدفوعة بالذكاء الاصطناعي.
+### About Me
+I am passionate about developing innovative solutions using information technology and geographic systems. I have experience in building computers and developing AI-driven applications.
 
-### المشاريع
-- [اسم المشروع 1](رابط المشروع 1): وصف مختصر للمشروع.
-- [اسم المشروع 2](رابط المشروع 2): وصف مختصر للمشروع.
-- [اسم المشروع 3](رابط المشروع 3): وصف مختصر للمشروع.
-
-### التعليم
-- [اسم الجامعة] - [اسم التخصص] - [سنة التخرج]
-
-### خبرة العمل
-- [اسم الشركة] - [المسمى الوظيفي] - [تاريخ البدء - تاريخ الانتهاء]
-  - وصف مختصر للمهام والإنجازات.
+### Education
+- **Damietta University** - **Geographic Information Systems and Remote Sensing** - **Graduation Year: 2024**
